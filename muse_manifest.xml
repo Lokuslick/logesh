@@ -1,0 +1,295 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bring-to-light-ringme.000webhostapp.com" resolutions="1x" timestamp="1549726653896">
+  <folder name="assets">
+    <file name="ohw-only.mp4" crc="4218744849" seo="true" mt="1505230903000"/>
+    <file name="2356e0343a092da771afb765436f6475.jpg" crc="3953450516" seo="true" mt="1511015437000"/>
+    <file name="gritystick.mp4" crc="4065153294" seo="true" mt="1549693081000"/>
+    <file name="gritystickicon.png" crc="4162135588" seo="true" mt="1533903637000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="519419686"/>
+    <file name="index.css" crc="94052204" ref="index"/>
+    <file name="iefonts_index.css" crc="3842676689" ref="index"/>
+    <file name="kali-linux-tools.css" crc="421888750" ref="kali-linux-tools"/>
+    <file name="iefonts_kali-linux-tools.css" crc="67608066" ref="kali-linux-tools"/>
+    <file name="mobile-ui.css" crc="4029239165" ref="mobile-ui"/>
+    <file name="iefonts_mobile-ui.css" crc="4108289865" ref="mobile-ui"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:tablet>index:index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:tablet>index:index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:index:kali-linux-tools:mobile-ui"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="form_check.php" crc="4286608207" ref="phone>index"/>
+    <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
+    <file name="form_process.php" crc="3855659497" ref="phone>index"/>
+    <file name="form-u5733.php" crc="189714615" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:tablet>index:index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="require.js" crc="85721165" ref="phone>index:tablet>index:index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index:phone>index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index:phone>index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index:phone>index:phone>kali-linux-tools-mobile:kali-linux-tools:phone>mobile-ui-mobile-site:mobile-ui"/>
+    <file name="form-u3177.php" crc="449320357" ref="index"/>
+    <file name="form-u7947.php" crc="123469337" ref="phone>index"/>
+    <file name="form-u6767.php" crc="4086196953" ref="index"/>
+    <file name="form-u7322.php" crc="3943747151" ref="index"/>
+    <file name="form-u9113.php" crc="4270364866" ref="phone>kali-linux-tools-mobile"/>
+    <file name="form-u8655.php" crc="4121228583" ref="kali-linux-tools"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>index:index"/>
+    <file name="form-u10293.php" crc="4268718885" ref="phone>mobile-ui-mobile-site"/>
+    <file name="form-u9462.php" crc="104062968" ref="mobile-ui"/>
+  </folder>
+  <folder name="images">
+    <file name="branding.png" crc="4293309447" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design.png" crc="3991986915" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5661.png" crc="4056489416" ref="phone>index"/>
+    <file name="u5661-r.png" crc="358114021" ref="phone>index"/>
+    <file name="u5663.png" crc="513740871" ref="phone>index"/>
+    <file name="u5663-r.png" crc="94749284" ref="phone>index"/>
+    <file name="u5667.png" crc="3951026524" ref="phone>index"/>
+    <file name="u5667-r.png" crc="4173147026" ref="phone>index"/>
+    <file name="u5665.png" crc="256863744" ref="phone>index"/>
+    <file name="u5665-r.png" crc="404507161" ref="phone>index"/>
+    <file name="90-.png" crc="311746381" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="75-.png" crc="505622096" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5720.png" crc="493444906" ref="phone>index"/>
+    <file name="u5720-r.png" crc="3971867455" ref="phone>index"/>
+    <file name="u5722.png" crc="3879628857" ref="phone>index"/>
+    <file name="u5722-r.png" crc="4236386713" ref="phone>index"/>
+    <file name="u5726.png" crc="4068362561" ref="phone>index"/>
+    <file name="u5726-r.png" crc="522256340" ref="phone>index"/>
+    <file name="u5730.png" crc="401112214" ref="phone>index"/>
+    <file name="u5730-r.png" crc="297139583" ref="phone>index"/>
+    <file name="responsive.png" crc="272208513" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seo.png" crc="302746686" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2858.png" crc="4056489416" ref="index"/>
+    <file name="u2858-r.png" crc="358114021" ref="index"/>
+    <file name="u2860.png" crc="513740871" ref="index"/>
+    <file name="u2860-r.png" crc="94749284" ref="index"/>
+    <file name="u2864.png" crc="3951026524" ref="index"/>
+    <file name="u2864-r.png" crc="4173147026" ref="index"/>
+    <file name="u2862.png" crc="256863744" ref="index"/>
+    <file name="u2862-r.png" crc="404507161" ref="index"/>
+    <file name="u2866.png" crc="4056489416" ref="index"/>
+    <file name="u2866-r.png" crc="358114021" ref="index"/>
+    <file name="u2868.png" crc="513740871" ref="index"/>
+    <file name="u2868-r.png" crc="94749284" ref="index"/>
+    <file name="u2872.png" crc="3951026524" ref="index"/>
+    <file name="u2872-r.png" crc="4173147026" ref="index"/>
+    <file name="u2870.png" crc="256863744" ref="index"/>
+    <file name="u2870-r.png" crc="404507161" ref="index"/>
+    <file name="u2874.png" crc="4056489416" ref="index"/>
+    <file name="u2874-r.png" crc="358114021" ref="index"/>
+    <file name="u2876.png" crc="513740871" ref="index"/>
+    <file name="u2876-r.png" crc="94749284" ref="index"/>
+    <file name="u2880.png" crc="3951026524" ref="index"/>
+    <file name="u2880-r.png" crc="4173147026" ref="index"/>
+    <file name="u2878.png" crc="256863744" ref="index"/>
+    <file name="u2878-r.png" crc="404507161" ref="index"/>
+    <file name="crossbrowser-u2944.png" crc="4029320507" ref="index"/>
+    <file name="facebook.png" crc="117589718" seo="true" ref="index:phone>index:phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="u3163.png" crc="392385803" ref="index"/>
+    <file name="u3163-r.png" crc="144828782" ref="index"/>
+    <file name="u3165.png" crc="3887056514" ref="index"/>
+    <file name="u3165-r.png" crc="27854221" ref="index"/>
+    <file name="u3169.png" crc="74980378" ref="index"/>
+    <file name="u3169-r.png" crc="253279187" ref="index"/>
+    <file name="u3173.png" crc="4272385404" ref="index"/>
+    <file name="u3173-r.png" crc="112310536" ref="index"/>
+    <file name="download.png" crc="3791347331" ref="phone>index:index:kali-linux-tools:mobile-ui">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kali-linux-tools" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="pasted image 858x1080.jpg" crc="527640585" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7851.png" crc="4056489416" ref="phone>index"/>
+    <file name="u7851-r.png" crc="358114021" ref="phone>index"/>
+    <file name="u7853.png" crc="513740871" ref="phone>index"/>
+    <file name="u7853-r.png" crc="94749284" ref="phone>index"/>
+    <file name="u7857.png" crc="3951026524" ref="phone>index"/>
+    <file name="u7857-r.png" crc="4173147026" ref="phone>index"/>
+    <file name="u7855.png" crc="256863744" ref="phone>index"/>
+    <file name="u7855-r.png" crc="404507161" ref="phone>index"/>
+    <file name="logo 2.jpg" crc="240955569" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7859.png" crc="4056489416" ref="phone>index"/>
+    <file name="u7859-r.png" crc="358114021" ref="phone>index"/>
+    <file name="u7861.png" crc="513740871" ref="phone>index"/>
+    <file name="u7861-r.png" crc="94749284" ref="phone>index"/>
+    <file name="u7865.png" crc="3951026524" ref="phone>index"/>
+    <file name="u7865-r.png" crc="4173147026" ref="phone>index"/>
+    <file name="u7863.png" crc="256863744" ref="phone>index"/>
+    <file name="u7863-r.png" crc="404507161" ref="phone>index"/>
+    <file name="crossbrowser-u7937.png" crc="4029320507" ref="phone>index"/>
+    <file name="5954165-hacker-wallpaperlogo.jpg" crc="199979959" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:kali-linux-tools:mobile-ui"/>
+    <file name="5954165-hacker-wallpaper.jpg" crc="4221332534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 4.png" crc="129379896" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9105.png" crc="493444906" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9105-r.png" crc="3971867455" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9107.png" crc="3879628857" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9107-r.png" crc="4236386713" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9109.png" crc="4068362561" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9109-r.png" crc="522256340" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9111.png" crc="401112214" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9111-r.png" crc="297139583" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9200.png" crc="493444906" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9200-r.png" crc="3971867455" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9202.png" crc="3879628857" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9202-r.png" crc="4236386713" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9204.png" crc="4068362561" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9204-r.png" crc="522256340" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9206.png" crc="401112214" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u9206-r.png" crc="297139583" ref="phone>kali-linux-tools-mobile"/>
+    <file name="u8930.png" crc="392385803" ref="kali-linux-tools"/>
+    <file name="u8930-r.png" crc="144828782" ref="kali-linux-tools"/>
+    <file name="u8932.png" crc="3887056514" ref="kali-linux-tools"/>
+    <file name="u8932-r.png" crc="27854221" ref="kali-linux-tools"/>
+    <file name="u8934.png" crc="74980378" ref="kali-linux-tools"/>
+    <file name="u8934-r.png" crc="253279187" ref="kali-linux-tools"/>
+    <file name="u8936.png" crc="4272385404" ref="kali-linux-tools"/>
+    <file name="u8936-r.png" crc="112310536" ref="kali-linux-tools"/>
+    <file name="u8982.png" crc="392385803" ref="kali-linux-tools"/>
+    <file name="u8982-r.png" crc="144828782" ref="kali-linux-tools"/>
+    <file name="u8984.png" crc="3887056514" ref="kali-linux-tools"/>
+    <file name="u8984-r.png" crc="27854221" ref="kali-linux-tools"/>
+    <file name="u8986.png" crc="74980378" ref="kali-linux-tools"/>
+    <file name="u8986-r.png" crc="253279187" ref="kali-linux-tools"/>
+    <file name="u8988.png" crc="4272385404" ref="kali-linux-tools"/>
+    <file name="u8988-r.png" crc="112310536" ref="kali-linux-tools"/>
+    <file name="favicon.ico" crc="291845074" ref="index"/>
+    <file name="logo 3.png" crc="174292718" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 1.png" crc="151234977" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 3-u7944-fr.png" crc="206344229" ref="phone>index:index"/>
+    <file name="u10057-4.png" crc="4289407130" ref="phone>index"/>
+    <file name="logo 4-u10208-fr.png" crc="99019875" ref="phone>index"/>
+    <file name="pasted image 1920x1080-crop-u10406.png" crc="3888639245" seo="true" ref="phone>mobile-ui-mobile-site">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+    </file>
+    <file name="ezgifcom-video-to-gif.gif" crc="441016830" seo="true" ref="phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="ezgifcom-video-to-gif (1).gif" crc="3892789101" seo="true" ref="phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="ezgifcom-video-to-gif (2).gif" crc="256932181" seo="true" ref="phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="ezgifcom-video-to-gif (3).gif" crc="4019374228" seo="true" ref="phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="ezgifcom-video-to-gif2.gif" crc="4070261627" seo="true" ref="phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="google-.png" crc="4148619240" seo="true" ref="phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3921119785" seo="true" ref="phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="3787481069" seo="true" ref="phone>mobile-ui-mobile-site:mobile-ui">
+      <caption webpage="mobile-ui-mobile-site" alt=""/>
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="u10276.png" crc="493444906" ref="phone>mobile-ui-mobile-site"/>
+    <file name="u10276-r.png" crc="3971867455" ref="phone>mobile-ui-mobile-site"/>
+    <file name="u10311.png" crc="3879628857" ref="phone>mobile-ui-mobile-site"/>
+    <file name="u10311-r.png" crc="4236386713" ref="phone>mobile-ui-mobile-site"/>
+    <file name="u10283.png" crc="4068362561" ref="phone>mobile-ui-mobile-site"/>
+    <file name="u10283-r.png" crc="522256340" ref="phone>mobile-ui-mobile-site"/>
+    <file name="u10280.png" crc="401112214" ref="phone>mobile-ui-mobile-site"/>
+    <file name="u10280-r.png" crc="297139583" ref="phone>mobile-ui-mobile-site"/>
+    <file name="u9769-4.png" crc="4289407130" ref="index"/>
+    <file name="pasted image 1920x1080.png" crc="4029752447" seo="true" ref="mobile-ui">
+      <caption webpage="mobile-ui" alt=""/>
+    </file>
+    <file name="u9484.png" crc="392385803" ref="mobile-ui"/>
+    <file name="u9484-r.png" crc="144828782" ref="mobile-ui"/>
+    <file name="u9500.png" crc="3887056514" ref="mobile-ui"/>
+    <file name="u9500-r.png" crc="27854221" ref="mobile-ui"/>
+    <file name="u9480.png" crc="74980378" ref="mobile-ui"/>
+    <file name="u9480-r.png" crc="253279187" ref="mobile-ui"/>
+    <file name="u9482.png" crc="4272385404" ref="mobile-ui"/>
+    <file name="u9482-r.png" crc="112310536" ref="mobile-ui"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4256490825" ref="tablet>index"/>
+      <file name="index.css" crc="4087102225" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="247748069" seo="true" mt="1527740902805" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3834294019" ref="phone>index:phone>kali-linux-tools-mobile:phone>mobile-ui-mobile-site"/>
+      <file name="index.css" crc="67352196" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="411266222" ref="phone>index"/>
+      <file name="kali-linux-tools-mobile.css" crc="3835290315" ref="phone>kali-linux-tools-mobile"/>
+      <file name="iefonts_kali-linux-tools-mobile.css" crc="326993267" ref="phone>kali-linux-tools-mobile"/>
+      <file name="mobile-ui-mobile-site.css" crc="3778634431" ref="phone>mobile-ui-mobile-site"/>
+      <file name="iefonts_mobile-ui-mobile-site.css" crc="107163085" ref="phone>mobile-ui-mobile-site"/>
+    </folder>
+    <file name="index.html" crc="17456836" seo="true" mt="1549726286135" redirect="true"/>
+    <file name="kali-linux-tools-mobile.html" crc="483104087" seo="true" mt="1549716595589" redirect="true"/>
+    <file name="mobile-ui-mobile-site.html" crc="24303770" seo="true" mt="1549726368423" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="375504415" seo="true" mt="1549724545295" redirect="true"/>
+  <file name="kali-linux-tools.html" crc="3908589486" seo="true" mt="1549694666876" redirect="true"/>
+  <file name="mobile-ui.html" crc="361604439" seo="true" mt="1549721684921" redirect="true"/>
+</manifest>
